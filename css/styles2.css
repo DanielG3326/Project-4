@@ -83,7 +83,7 @@ th, td {
     padding: 10px 20px;
     text-align: center;
 }
-@media screen and (max-width: 600px) {
+@media (max-width: 480px) {
     body {
         background-color: rgb(255, 161, 177);
         margin: 10px;
